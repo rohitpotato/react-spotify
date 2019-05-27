@@ -1,0 +1,15 @@
+export const SET_USER = 'SET_USER';
+export const CLEAR_USER = 'CLEAR_USER';
+export const GET_USER_DATA = 'GET_USER_DATA';
+export const GET_ARTISTS = 'GET_ARTISTS';
+export const GET_ARTIST = 'GET_ARTIST';
+export const GET_ALBUMS = 'GET_ALBUMS';
+export const GET_TOP_TRACKS = 'GET_TOP_TRACKS';
+export const PLAY_TRACK = 'PLAY_TRACK';
+export const GET_ALBUM_TRACKS = 'GET_ALBUM_TRACKS';
+export const SET_CURRENT_ALBUM = 'SET_CURRENT_ALBUM';
+export const SET_CURRENT_TRACK = 'SET_CURRENT_TRACK';
+export const GET_USER_TOP_TRACKS = 'GET_USER_TOP_TRACKS';
+export const GET_NEW_RELEASES = 'GET_NEW_RELEASES';
+export const GET_RECENTLY_PLAYED = "GET_RECENTLY_PLAYED";
+export const GET_RELATED_ARTISTS = "GET_RELATED_ARTISTS";
