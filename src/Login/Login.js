@@ -28,8 +28,10 @@ class Login extends React.Component {
 
 		return (
 
-			<div>
-				<a href={url}>Login Via Spotify</a>
+			<div className="login">
+				<h1 className="login-intro">Spotify Client built with React.Js and Redux.</h1>
+				<a href={url} className="login-text">Login Via Spotify</a>
+				<a href="http://github.com/rohitpotato/react-spotify" className="login-text">View on Github</a>
 			</div>
 		);
 	}
